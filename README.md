@@ -57,9 +57,11 @@ Password Manager/
 # 🖼️ Screenshots (Add after upload)
 
 ```
-![Home Screenshot]<img width="2560" height="1440" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/32ff321b-75fb-44d6-a385-8c93a29de2dc" />
-![Password List]<img width="2560" height="1440" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/49963657-2b79-48f2-8440-f27d8802a3cc" />
-![Mobile View]<img width="2010" height="1439" alt="Screenshot 2025-12-10 175750" src="https://github.com/user-attachments/assets/e528a48b-7007-401b-92d5-eb88eb223c04" />
+![Home Screenshot]<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/af7fca28-afef-4f7e-a777-d8921bf3ff9d" />
+
+![Password List]<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/5238de6b-a13d-4cf0-9479-605a3878da9a" />
+
+![Mobile View]<img width="2010" height="1439" alt="image" src="https://github.com/user-attachments/assets/f1685d38-7b33-4470-8ddf-450c011e5183" />
 
 ```
 
