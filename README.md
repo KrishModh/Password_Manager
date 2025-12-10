@@ -108,7 +108,7 @@ PORT=5000
 
 ### Contact
 - Email: rmodh4@gmail.com
-- LinkedIn: [(Add link)](https://www.linkedin.com/in/krish-modh-b38447300/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/krish-modh-b38447300/)
 
 ---
 
