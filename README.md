@@ -57,10 +57,10 @@ Password Manager/
 # 🖼️ Screenshots (Add after upload)
 
 ```
-![Home Screenshot](PUT_LINK_HERE)
-![Add Password](PUT_LINK_HERE)
-![Password List](PUT_LINK_HERE)
-![Mobile View](PUT_LINK_HERE)
+![Home Screenshot]<img width="2560" height="1440" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/32ff321b-75fb-44d6-a385-8c93a29de2dc" />
+![Password List]<img width="2560" height="1440" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/49963657-2b79-48f2-8440-f27d8802a3cc" />
+![Mobile View]<img width="2010" height="1439" alt="Screenshot 2025-12-10 175750" src="https://github.com/user-attachments/assets/e528a48b-7007-401b-92d5-eb88eb223c04" />
+
 ```
 
 ---
@@ -103,13 +103,12 @@ PORT=5000
 # 👤 Author — **Krish Modh**
 
 - B.Tech CSE Student  
-- Web & App Developer  
+- Web Developer  
 - Skilled in React, Tailwind, JS, Python, Java, C  
 
 ### Contact
-- Email: (Add your email)
-- Portfolio: (Add link)
-- Instagram / LinkedIn: (Add link)
+- Email: rmodh4@gmail.com
+- LinkedIn: [(Add link)](https://www.linkedin.com/in/krish-modh-b38447300/)
 
 ---
 
